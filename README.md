@@ -20,6 +20,3 @@ Press the corresponding keys or click on the drum buttons to play sounds.
 1. Clone the repository.
 2. Open `index.html` in your browser.
 
-## 📜 License
-This project is open source under the MIT License.
-# Drums
