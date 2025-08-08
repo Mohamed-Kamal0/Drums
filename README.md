@@ -13,8 +13,6 @@ Press the corresponding keys or click on the drum buttons to play sounds.
 - CSS3
 - JavaScript (DOM Manipulation, Event Listeners)
 
-## 📸 Screenshot
-![Drum Kit Screenshot](screenshot.png)
 
 ## 📂 How to Run
 1. Clone the repository.
